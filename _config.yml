@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Carl Vitzthum
 description: My personal page
 logo: /img/headshot.jpg
-github: carlvitzthum
-linkedin: carlvitzthum
-email: carl.vitzthum@gmail.com
+owner:
+  github: carlvitzthum
+  linkedin: carlvitzthum
+  email: carl.vitzthum@gmail.com
