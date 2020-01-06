@@ -8,6 +8,13 @@ I graduated *summa cum laude* from Colby College in 2016 with a degree in comput
 ## Projects
 *Coming soon! See my GitHub page in the meantime.*
 
+## Work Experience
+For the past three and a half years, I have worked on the 4DN-DCIC in the Park Lab at Harvard Medical School. Over my time there, I was promoted multiple times and tasked with leading back-end development and DevOps for the team. Please [see my resume](https://github.com/carlvitzthum/carlvitzthum.github.io/raw/master/img/resume_1_5_20.pdf) for more details.
+
+Before working at Harvard, I was a Research Fellow at the competitive Summer Student Program at the Jackson Laboratory in Bar Harbor, ME. There I worked on identifying enriched variants associated with Alzheimer's disease. As part of my project, I adapted a web application to view these variants.
+
+In college, I graded and tutored for the introductory computer science course at Colby College (2014 - 2016). I was also a research assistant for a concussion diagnosis project at Colby (2012 - 2014). Before that, I spent summers working as a molecular biology research assistant at Norwich University (2011 - 2013).
+
 ## Publications
 I have accumulated a number of co-authorships on peer-reviewed publications over my years in academia. Although all of my recent work has been software engineering, I studied computational biology and a wide range of science and started at HMS as a Scientific Programmer. Before that, I worked in three different labs over my time in college and high school.
 
