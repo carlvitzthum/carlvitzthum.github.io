@@ -18,8 +18,8 @@ I have accumulated a number of co-authorships on peer-reviewed publications over
 * Hinkle KL, Anderson CC, Forkey B, et al. [Exposure to the lampricide 3-trifluoromethyl-4-nitrophenol results in increased expression of carbohydrate transporters in S. cerevisiae](https://www.ncbi.nlm.nih.gov/pubmed/26606276). *Environ Toxicol Chem.* 2015
 
 ## Personal Interests
-Outside of the workplace, I am an avid Ultimate Frisbee player. I have played on BUDA club teams since arriving in Boston, and most recently co-captained a team that won 1st place in the Fall 2019 end-of-season tournament.
+Outside of the workplace, I am an avid Ultimate Frisbee player. I have played on BUDA club teams since arriving in Boston, and most recently co-captained a team that won 1st place in the Fall 2019 tournament.
 
 I am also interested in fitness and weight lifting. The intersection of software and fitness appeals to me, and some day I hope to apply my engineering and data science knowledge to make a product that can be used to help people get the most out of the gym.
 
-Board games and strategy video games have always appealed to me, so on the side I also spend time playing and designing those. I am a formidable opponent in Settlers of Catan or Dominion. I also anticipate spending a lot of time on the remastered Warcraft III: Reforged when it comes out.
+Board games and strategy video games are also a passion of mine, so on the side I spend time playing and designing those. I am a formidable opponent in Settlers of Catan or Dominion. I also anticipate spending a lot of time on the remastered Warcraft III: Reforged when it comes out.
