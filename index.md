@@ -18,11 +18,13 @@ In college, I graded and tutored for the introductory computer science course at
 ## Publications
 I have accumulated a number of co-authorships on peer-reviewed publications over my years in academia. Topics include software engineering, bioinformatics, and molecular biology.
 
-* Lee S, Johnson J, et al. [Tibanna: software for scalable execution of portable pipelines on the cloud](https://www.ncbi.nlm.nih.gov/pubmed/31077294). *Bioinformatics.* 2019
+* Reiff SB, et al. [The 4D Nucleome Data Portal as a resource for searching and visualizing curated nucleomics data](https://www.nature.com/articles/s41467-022-29697-4). *Nature Communications.* 2022
+* Lee S, et al. [Pairs and Pairix: a file format and a tool for efficient storage and retrieval for Hi-C read pairs](https://academic.oup.com/bioinformatics/article-abstract/38/6/1729/6493233). *Bioinformatics.* 2022
+* Lee S, et al. [Tibanna: software for scalable execution of portable pipelines on the cloud](https://www.ncbi.nlm.nih.gov/pubmed/31077294). *Bioinformatics.* 2019
 * Lodato MA, et al. [Aging and neurodegeneration are associated with increased mutations in single human neurons](https://www.ncbi.nlm.nih.gov/pubmed/29217584). *Science.* 2018
-* Sherman MA, Barton AR, Lodato MA, et al. [PaSD-qc: quality control for single cell whole-genome sequencing data using using power spectral density estimation](https://www.ncbi.nlm.nih.gov/pubmed/29186545). *Nucleic Acids Research.* 2018
+* Sherman MA, Barton AR, et al. [PaSD-qc: quality control for single cell whole-genome sequencing data using using power spectral density estimation](https://www.ncbi.nlm.nih.gov/pubmed/29186545). *Nucleic Acids Research.* 2018
 * Doczi MA, Vitzthum CM, Forehand CJ. [Developmental expression of Kv1 voltage-gated potassium channels in the avian hypothalamus](https://www.ncbi.nlm.nih.gov/pubmed/26845562). *Neurosci Lett.* 2016
-* Hinkle KL, Anderson CC, Forkey B, et al. [Exposure to the lampricide 3-trifluoromethyl-4-nitrophenol results in increased expression of carbohydrate transporters in S. cerevisiae](https://www.ncbi.nlm.nih.gov/pubmed/26606276). *Environ Toxicol Chem.* 2015
+* Hinkle KL, et al. [Exposure to the lampricide 3-trifluoromethyl-4-nitrophenol results in increased expression of carbohydrate transporters in S. cerevisiae](https://www.ncbi.nlm.nih.gov/pubmed/26606276). *Environ Toxicol Chem.* 2015
 
 ## Personal Interests
 Outside of the workplace, I am an avid Ultimate Frisbee player. I have played since high school and most recently co-captained a team that won 1st place in the Fall 2019 BUDA tournament.
